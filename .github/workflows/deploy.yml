@@ -5,10 +5,12 @@ on:
     branches:
       - master
       - main
+      - site
   pull_request:
     branches:
       - master
       - main
+      - site
 
 jobs:
   deploy:
