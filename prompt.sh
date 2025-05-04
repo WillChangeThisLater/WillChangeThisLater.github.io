@@ -69,9 +69,9 @@ $(tree)
 $(files-to-prompt .)
 
 Consider the main page screenshot below.
-Can you improve the layout of how the posts are laid out?
-I don't like how the current setup renders - it's hard to
-tell where one post preview ends and the next begins
+
+Improve the blog post layout. I think at a minimum I want
+the posts to show up with a last modified date.
 
 EOF
 }

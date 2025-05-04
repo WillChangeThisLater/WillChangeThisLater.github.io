@@ -3,15 +3,21 @@ layout: default
 ---
 
 <article class="post">
+
+  <div class="date">
+    Last updated {{ page.date | date: "%B %e, %Y" }}
+    {% if page.last_modified_at %}
+    <br>Last modified on {{ page.last_modified_at | date: "%B %e, %Y" }}
+    {% endif %}
+  </div>
+
   <h1>{{ page.title }}</h1>
+
 
   <div class="entry">
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
 
   {% include disqus.html %}
 </article>
