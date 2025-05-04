@@ -283,6 +283,27 @@ footer {
   text-align: center;
 }
 
+.post {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.post h1 {
+  margin-top: 0;
+}
+
+.read-more {
+  display: block;
+  margin-top: 10px;
+  color: #4183C4;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
