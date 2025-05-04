@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi! I'm Paul. I'm currently working as an ML Ops engineer at [SimpliSafe](https://simplisafe.com), where we're designing the next generation of smart cameras. In my free time I like going on runs, reading historical biographies, and writing janky bash scripts.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+paulwendt567 at gmail.com
