@@ -1,0 +1,12 @@
+# What's on my radar for the next few weeks/months
+- [X] `lm`
+- [X] `transcribe`
+- [X] `webshttps://github.com/WillChangeThisLater/WillChangeThisLater.github.iohot`
+- [X] `find-panes`
+- [X] `convo`
+- [X] `agent`
+- [X] `devcontainer`
+- [X] `lm-helpers`
+- [X] `slink`
+- [X] `dockertmp`
+- [ ] `uvx mcp servers`
