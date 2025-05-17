@@ -38,3 +38,6 @@ decisions i regret:
 - general fiscal irresponsibility
 - making fun of Erik
 - not stretching
+
+## 5-16-2025 update
+I'm glad I wrote this.
